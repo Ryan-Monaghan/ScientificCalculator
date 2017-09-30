@@ -1,0 +1,9 @@
+F:\Software Development\Scientific Calculator\Scientific Calculator\bin\Release\Scientific Calculator.exe
+F:\Software Development\Scientific Calculator\Scientific Calculator\bin\Release\Scientific Calculator.pdb
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\ResolveAssemblyReference.cache
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\Scientific_Calculator.scientificCalculatorForm.resources
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\Scientific_Calculator.Properties.Resources.resources
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\GenerateResource.read.1.tlog
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\GenerateResource.write.1.tlog
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\Scientific Calculator.exe
+F:\Software Development\Scientific Calculator\Scientific Calculator\obj\x86\Release\Scientific Calculator.pdb
